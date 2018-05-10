@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 8.595 s <<< FAILURE! - in runner.TestRunner
+When a user calls the Login URL using get method(Scenario: verify get connectivity of Login Page)  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.AssertionError
+
+Scenario: verify get connectivity of Login Page  Time elapsed: 0.005 s  <<< FAILURE!
+java.lang.AssertionError
+
